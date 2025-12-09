@@ -26,6 +26,7 @@ secret:
     # override secret keys for existing secret refs
     secretRefKey:
       anonKey: anonKey
+      publishableKey: publishableKey
       serviceKey: serviceKey
       secret: secret
   # database credentials
