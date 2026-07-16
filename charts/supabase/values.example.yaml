@@ -135,7 +135,7 @@ analytics:
 
 vector:
   image:
-    tag: 0.28.1-alpine
+    tag: 0.34.0-alpine
   livenessProbe:
     httpGet:
       path: /health
