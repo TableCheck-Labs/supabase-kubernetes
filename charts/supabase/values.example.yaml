@@ -26,8 +26,8 @@ db:
   image:
     tag: 15.8.1.085
   initImage:
-    repository: postgres
-    tag: "15-alpine"
+    repository: supabase/postgres
+    tag: 15.8.1.085
   livenessProbe:
     exec:
       command:
