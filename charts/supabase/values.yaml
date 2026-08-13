@@ -19,6 +19,7 @@ secret:
   # JWT Secret: Analytics, Auth, Rest, Realtime, Storage
   jwt:
     anonKey: ""
+    publishableKey: ""
     serviceKey: ""
     secret: ""
     # specify existing secret, which takes precedence over variables above
